@@ -3,9 +3,10 @@
 
 reference: (https://youtu.be/LH-S5v-D3hA)
 
-Project Contains: Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
+Project Contains: Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, etc.
 
 Features :
+
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
 - Secure Card Payments / Cash payments
 - Admin Panel - Add/Edit Orders. Add/Edit Products
@@ -15,6 +16,7 @@ Features :
 - User Profile and user orders
 
 Technical Details :
+
 - React 18 with Tailwind CSS
 - Redux Toolkit with Async Thunk
 - React Router v6
